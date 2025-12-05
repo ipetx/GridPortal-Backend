@@ -1,0 +1,16 @@
+{
+  "CaseSet": {
+    "CaseSetNum": 2,
+    "Name": "Default Set",
+    "Type": "Planning",
+    "CaseSetYear": 2025,
+    "Comments": "Auto-created"
+  },
+  "CaseInfo": {
+    "CaseNum":2,
+    "CaseYear": 2026,
+    "CaseSeason": "Summer",
+    "CaseType": "Planning",
+    "Comments": "Imported from JSON"
+  }
+}

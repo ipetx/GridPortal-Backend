@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MainAPI/MainAPI.csproj" />
+  <Project Path="Powerflow/Powerflow.csproj" />
+</Solution>
